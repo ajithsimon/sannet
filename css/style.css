@@ -59,7 +59,7 @@ a:hover, a:focus, a:active {
 }
 
 .hero-text-heading, .sannet-hero h1, .flexslider .sannet-heading {
-  font-size: 52px;
+  font-size: 46px;
   font-weight: 300;
   margin-bottom: 10px;
   margin-top: 0;
@@ -1609,7 +1609,7 @@ a:hover, a:focus, a:active {
 }
 
 .flexslider .sannet-slider-text {
-  margin-top: 22vh;
+  margin-top: 20vh;
 }
 
 @media screen and (max-width: 480px) {
