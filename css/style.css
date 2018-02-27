@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background: #e5eaef;
+  background: #fafafa;
   color: #8b8e94;
   line-height: 28px;
   font-size: 14px;
@@ -789,7 +789,7 @@ a:hover, a:focus, a:active {
 }
 
 .sannet-section {
-  padding: 7em 0;
+  padding: 4em 0;
 }
 
 .sannet-section.sannet-border-top {
@@ -1588,7 +1588,7 @@ a:hover, a:focus, a:active {
 
 /* Flexslider override style */
 .slider-height, .flexslider, .flexslider .slides > li {
-  height: 700px;
+  height: 50vh;
 }
 
 @media screen and (max-width: 480px) {
@@ -1608,7 +1608,7 @@ a:hover, a:focus, a:active {
 }
 
 .flexslider .sannet-slider-text {
-  margin-top: 45%;
+  margin-top: 22vh;
 }
 
 @media screen and (max-width: 480px) {
