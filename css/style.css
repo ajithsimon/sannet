@@ -789,7 +789,7 @@ a:hover, a:focus, a:active {
 }
 
 .sannet-section {
-    padding: 4em 0;
+    padding: 2em 0;
 }
 
 .sannet-section.sannet-border-top {
@@ -971,7 +971,7 @@ a:hover, a:focus, a:active {
     margin-bottom: 30px;
     float: left;
     width: 100%;
-    padding: 40px;
+    padding: 30px;
     border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
@@ -1020,7 +1020,7 @@ a:hover, a:focus, a:active {
 
 .service.left-icon h3 {
     font-size: 18px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 }
 
 .service.left-icon p {
