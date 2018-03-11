@@ -139,7 +139,8 @@
 	    animation: "fade",
 	    prevText: "",
 	    nextText: "",
-	    slideshow: true
+	    slideshow: true,
+            autoPlay: true
 	  });
 	}
 
